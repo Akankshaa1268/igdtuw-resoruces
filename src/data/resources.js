@@ -158,7 +158,7 @@ export const resources = {
       { name: "Python Question Bank (BTETPE405E)", url: "/resources/CSE-AI/python/tutorial sheets/Python_Question_Bank-Python-Programming-BTETPE405E.pdf" },
       { name: "Python Question Bank (Unit 1 & 2)", url: "/resources/CSE-AI/python/tutorial sheets/Question bank python ( unit 1 and 2).docx" },
     ],
-  }
+  }  
   
 },
 
